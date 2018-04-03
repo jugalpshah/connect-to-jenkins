@@ -4,7 +4,7 @@
 #
 # @see https://docs.chef.io/resource_package.html
 #
-package 'tree'
+#package 'tree'
 
 #
 # The template, named '/etc/motd' is created
